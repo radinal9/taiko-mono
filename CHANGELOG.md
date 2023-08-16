@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.19.0](https://github.com/taikoxyz/taiko-mono/compare/taiko-mono-v0.18.0...taiko-mono-v0.19.0) (2023-08-16)
+
+
+### Features
+
+* **bridge-ui-v2:** destination token bridged ([#14448](https://github.com/taikoxyz/taiko-mono/issues/14448)) ([072afbf](https://github.com/taikoxyz/taiko-mono/commit/072afbf3e54efe813a3eb76000faa4861620caba))
+* **bridge-ui-v2:** fix vercel routing ([#14522](https://github.com/taikoxyz/taiko-mono/issues/14522)) ([2ab5faf](https://github.com/taikoxyz/taiko-mono/commit/2ab5faf11789078730b3b3e3eab516fb6ca11d0a))
+* **bridge-ui-v2:** switch chain on wrong network ([#14511](https://github.com/taikoxyz/taiko-mono/issues/14511)) ([89b8a86](https://github.com/taikoxyz/taiko-mono/commit/89b8a86134fe9227d6011f69c7de0b8420ad25dc))
+* **bridge-ui-v2:** update the style of chain selector ([#14517](https://github.com/taikoxyz/taiko-mono/issues/14517)) ([35ef27d](https://github.com/taikoxyz/taiko-mono/commit/35ef27db2df032b6639ce3ed719cb78c081b9c9f))
+* **bridge-ui-v2:** update the style of switch chain button ([#14518](https://github.com/taikoxyz/taiko-mono/issues/14518)) ([6099842](https://github.com/taikoxyz/taiko-mono/commit/6099842821935066c99fcc0f5996ba183ea11a89))
+* **website:** update forkdiff website ([#14515](https://github.com/taikoxyz/taiko-mono/issues/14515)) ([c820166](https://github.com/taikoxyz/taiko-mono/commit/c8201660635392f1112d5ce97a5401323f880fe1))
+
+
+### Bug Fixes
+
+* **relayer:** use erc20vault not token vault for required end var ([#14519](https://github.com/taikoxyz/taiko-mono/issues/14519)) ([a49c65c](https://github.com/taikoxyz/taiko-mono/commit/a49c65c6ba9535a761f4ef2abd7be2b2213a71c2))
+
 ## [0.18.0](https://github.com/taikoxyz/taiko-mono/compare/taiko-mono-v0.17.0...taiko-mono-v0.18.0) (2023-08-15)
 
 
